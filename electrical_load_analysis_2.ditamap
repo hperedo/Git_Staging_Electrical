@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="introduction">
+    <title>INTRODUCTION</title>
+    <body>
+        <p>This Electrical Load Analysis has been prepared as a supplement to the aircraft’s (Boeing
+            737NG Series) Electrical Load Analysis in accordance with Federal Aviation
+            Administration (FAA) Federal Aviation Regulation 14 CFR 25.1351. Prior to incorporating
+            this modification, a review and analysis of the aircraft’s electrical power distribution
+            system must be accomplished to ensure compliance. The current aircraft electrical load
+            analysis should be updated to include the changes shown in this document.</p>
+        <p>This report is a summary of the added electrical loads resulting from the post-factory
+            installation of</p>
+        <p>two (2) Active Noise Reduction (ANR) Aviation Headsets with an XLR style jack at the
+            Captain’s and First Officer’s position. This Analysis will only address the aircraft
+            buses that are affected by this installation. The aircraft Electrical Load Analysis must
+            be updated at the time of installation to reflect these changes.</p>
+        <p>This Electrical Load Analysis has been prepared as a supplement to the aircraft’s (Boeing
+            737NG Series) Electrical Load Analysis in accordance with Federal Aviation
+            Administration (FAA) Federal Aviation Regulation 14 CFR 25.1351. Prior to incorporating
+            this modification, a review and analysis of the aircraft’s electrical power distribution
+            system must be accomplished to ensure compliance. The current aircraft electrical load
+            analysis should be updated to include the changes shown in this document.</p>
+        <p>Federal Aviation Administration (FAA) Federal Aviation Regulation 14 CFR 25.1351</p>
+    </body>
+</topic>
